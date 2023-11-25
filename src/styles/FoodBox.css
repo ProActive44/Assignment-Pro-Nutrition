@@ -1,0 +1,23 @@
+/* .box {
+  border: 1px solid red;
+} */
+
+.is-64x64 img {
+  width: 150px;
+  /* height: 100px; */
+}
+
+.input{
+    padding: 10px 5px;
+}
+
+.media {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+}
